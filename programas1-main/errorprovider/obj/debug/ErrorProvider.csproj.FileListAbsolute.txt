@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\vsstudio segundo\ErrorProvider\bin\Debug\ErrorProvider.exe.config
+C:\Users\usuario\Desktop\vsstudio segundo\ErrorProvider\bin\Debug\ErrorProvider.exe
+C:\Users\usuario\Desktop\vsstudio segundo\ErrorProvider\bin\Debug\ErrorProvider.pdb
+C:\Users\usuario\Desktop\vsstudio segundo\ErrorProvider\obj\Debug\ErrorProvider.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\vsstudio segundo\ErrorProvider\obj\Debug\ErrorProvider.Form1.resources
+C:\Users\usuario\Desktop\vsstudio segundo\ErrorProvider\obj\Debug\ErrorProvider.Properties.Resources.resources
+C:\Users\usuario\Desktop\vsstudio segundo\ErrorProvider\obj\Debug\ErrorProvider.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\vsstudio segundo\ErrorProvider\obj\Debug\ErrorProvider.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\vsstudio segundo\ErrorProvider\obj\Debug\ErrorProvider.exe
+C:\Users\usuario\Desktop\vsstudio segundo\ErrorProvider\obj\Debug\ErrorProvider.pdb
